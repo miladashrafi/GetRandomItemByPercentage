@@ -1,7 +1,8 @@
 ﻿
-int onePercentage = 30, twoPercentage = 70;
 
 var all = new List<string>();
+
+int onePercentage = 30, twoPercentage = 70;
 
 while (true)
 {
